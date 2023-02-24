@@ -1,4 +1,4 @@
-![ cabeçalho](https://github.com/programacaogabriel/Cores_primarias_secundarias_terciarias/blob/main/imagens_projeto/screen.jpg)
+![ cabeçalho]
 
 
 <h1 align="center">Matemática da Água </h1>
