@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: aliceblue;
+}
+
+#tela_calculadora {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    background-color: rgb(203, 191, 255);
+    width: 600px;
+    height: 400px;
+    border-radius: 7px;
+    font-size: max(12px, 1.5vh);
+}
+
+#tela_calculadora .texto {
+    margin: 5px;
+    border-radius: 7px;
+    padding: 45px;
+    font-size: medium;
+    background-color: rgb(135, 157, 255);
+    font-size: max(15px, 1.9vh);
+}
+
+#tela_calculadora .number {
+    margin: 5px;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: max(12px, 1.9vh);
+}
+
+#tela_calculadora button {
+    margin: 5px;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 20px;
+    font-size: max(12px, 1.9vh);
+}
