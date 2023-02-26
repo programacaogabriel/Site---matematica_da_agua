@@ -11,12 +11,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 5px;
+    margin: 15px;
+    padding: 10px;
     background-color: rgb(203, 191, 255);
-    width: 600px;
-    height: 400px;
+    width: 700px;
+    height: 800px;
     border-radius: 7px;
     font-size: max(12px, 2.3vh);
+    text-align: center;
 }
 
 #tela_calculadora .texto {
@@ -26,6 +28,7 @@ body {
     font-size: medium;
     background-color: rgb(135, 157, 255);
     font-size: max(15px, 2.3vh);
+    text-align: left;
 }
 
 #tela_calculadora .number {
