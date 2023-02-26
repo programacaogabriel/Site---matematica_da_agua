@@ -8,7 +8,6 @@
 
 ####  Está é uma aplicação web planejada por mim, aonde realizo a criação de um site que lhe dára dados a respeito da quantidade de água que você deverá tomar durante o dia
 
-Situação: Em desenvolvimento warning ⚠️
 
 ### Projeto 🏰
 Este é um repositório usado como base para mostrar o meu trabalho com html css e javascript
